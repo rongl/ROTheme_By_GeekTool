@@ -27,8 +27,7 @@
 1. 先从网站下载安装[GeekTool For Mac](http://projects.tynsoe.org/en/geektool/download.php)
 2. 把`ROTheme_By_GeekTool`目录复制到家目录下面,前命名为`.ROTheme_By_GeekTool`;确保目录下在脚本有执行权限
 
-> cp -rf ./ROTheme_By_GeekTool ~/.ROTheme_By_GeekTool
-> chmod +x ~/.ROTheme_By_GeekTool/*.sh
+> cp -rf ./ROTheme_By_GeekTool ~/.ROTheme_By_GeekTool && chmod +x ~/.ROTheme_By_GeekTool/*.sh
 
 
 
