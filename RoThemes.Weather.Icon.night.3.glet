@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GeekletFrame</key>
+	<string>{{111, 222}, {20, 20}}</string>
+	<key>HasShadow</key>
+	<false/>
+	<key>Identifier</key>
+	<string>org.tynsoe.geeklet.image</string>
+	<key>ImageURL</key>
+	<string>file:///private/tmp/.RoThemes.Weather.3.night.png</string>
+	<key>Name</key>
+	<string>ro.weather.night.3</string>
+</dict>
+</plist>
